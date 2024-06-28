@@ -1,4 +1,17 @@
-## Hi there 👋
+### Boas Vindas ao Meu Perfil=🦎🎶
+
+Meu nome é Sammi Michels
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamnto dos meus projetos desenvolvidos
+
+### Pra entrar em contato comigo:📬
+
+sammi.luiza.michels@gmail.com
+
+
+![](https://media1.tenor.com/m/E3SNnvncEE0AAAAC/dance.gif)
 
 <!--
 **MicghelSammi/MicghelSammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
